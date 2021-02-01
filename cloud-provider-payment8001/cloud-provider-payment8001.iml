@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="spring_boot_com.munian.springcloud.PaymentMain8001" name="PaymentMain8001" removed="true">
+          <file>file://$MODULE_DIR$/src/main/java/com/munian/springcloud/PaymentMain8001.java</file>
+        </fileset>
+        <fileset id="spring-boot-dispatcherServletAutoConfiguration-mvc" name="PaymentMain8001 MVC" removed="true">
+          <file>file://$MODULE_DIR$/src/main/java/com/munian/springcloud/PaymentMain8001.java</file>
+        </fileset>
+        <fileset id="fileset" name="Spring Application Context1" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/application.properties</file>
+          <file>file://$MODULE_DIR$/src/main/resources/application.yml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>
